@@ -64,6 +64,7 @@ php artisan migrate --seed
 
 # Serve the backend
 php artisan serve
+```
 
 2️⃣ Frontend (React) Setup
 
