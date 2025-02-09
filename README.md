@@ -79,3 +79,7 @@ npm install
 npm start
 ```
 
+📷 Screenshots
+User Dashboard
+
+Admin Panel
