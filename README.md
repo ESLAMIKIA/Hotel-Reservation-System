@@ -13,7 +13,7 @@ This project is an Online Hotel Reservation System that allows users to view hot
     Manage users and their access
     View and approve/cancel bookings
 
-This system is built using Laravel (backend) and React (frontend) with SQL Server (SSMS) for database management. 🚀
+🚀This system is built using Laravel (backend) and React (frontend) with SQL Server (SSMS) for database management. 
 
 # 🏨 Online Hotel Reservation System
 
