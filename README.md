@@ -86,7 +86,7 @@ Reservation List
 ![Capture6](https://github.com/user-attachments/assets/f1ddd236-a1a7-4ec0-8542-3017c5c22844)
 Add Hotel
 ![Capture7](https://github.com/user-attachments/assets/053e0d9f-82ba-4dd3-8297-6597d81d4664)
-Add Hotel
+Edit Hotel
 -------------------------------------------------------------------------------------------------------
 ![Capture8](https://github.com/user-attachments/assets/30e4e7a9-f913-4a9c-9d1c-c1795dd3f31a)
 
