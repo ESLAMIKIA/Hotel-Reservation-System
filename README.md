@@ -65,8 +65,9 @@ php artisan migrate --seed
 # Serve the backend
 php artisan serve
 ```
+### **1️⃣ Backend (Laravel) Setup**
 
-2️⃣ Frontend (React) Setup
+```bash
 
 # Navigate to the frontend folder
 cd hotel-reservation/frontend
