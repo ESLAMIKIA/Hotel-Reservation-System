@@ -79,12 +79,3 @@ npm install
 npm start
 ```
 
-📌 API Endpoints
-Method	Endpoint	Description
-POST	/api/register	Register a new user
-POST	/api/login	Authenticate user
-GET	/api/hotels	Fetch list of hotels
-POST	/api/bookings	Book a hotel
-GET	/api/bookings	View user bookings
-DELETE	/api/bookings/{id}	Cancel a booking
-
