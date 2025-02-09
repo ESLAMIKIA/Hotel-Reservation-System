@@ -46,9 +46,8 @@ php artisan migrate --seed
 
 # Serve the backend
 php artisan serve
-
 ```
-2️⃣ Frontend (React) Setup
+### **2️⃣ Frontend (React) Setup**
 ```bash
 # Navigate to the frontend folder
 cd hotel-reservation/frontend
@@ -64,7 +63,7 @@ npm start
 User Dashboard
 
 Admin Panel
-
+```
 🤝 Contributing
-
+--------------------------------------------------------------------------
 Contributions are welcome! Please fork the repository and submit a pull request.
