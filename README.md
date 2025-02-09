@@ -1,111 +1,66 @@
-This project is an Online Hotel Reservation System that allows users to view hotel listings, book rooms, and manage their reservations. It also includes an admin dashboard where administrators can manage hotels, users, and bookings.
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-✅ Users can:
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-    Register and log in
-    Browse available hotels
-    Book rooms for specific dates
-    View and cancel their reservations
+## About Laravel
 
-✅ Admins can:
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-    Manage hotels (add, edit, delete)
-    Manage users and their access
-    View and approve/cancel bookings
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-🚀This system is built using Laravel (backend) and React (frontend) with SQL Server (SSMS) for database management. 
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-# 🏨 Online Hotel Reservation System
+## Learning Laravel
 
-This project is a **full-featured hotel reservation system** built using **Laravel** for the backend and **React** for the frontend. It allows users to browse hotels, make reservations, and manage bookings. Admins can manage users, hotels, and reservations.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-## 🚀 Features
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-### **User Features**
-- 🔹 User authentication (Login, Registration) using Laravel Sanctum
-- 🔹 Browse available hotels with images
-- 🔹 Book a hotel for a specific date range
-- 🔹 View and manage personal reservations
-- 🔹 Logout functionality
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-### **Admin Features**
-- 🔹 Dashboard to manage users, hotels, and bookings
-- 🔹 View, add, update, and delete hotels
-- 🔹 Manage user accounts
-- 🔹 Approve or cancel bookings
+## Laravel Sponsors
 
-## 🛠️ Technologies Used
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-- **Backend**: Laravel, PHP, MySQL (SSMS)
-- **Frontend**: React.js, Bootstrap
-- **API Security**: Laravel Sanctum
-- **Database Management**: SQL Server (SSMS) with XAMPP
+### Premium Partners
 
-## 🏗️ Installation Guide
+- **[Vehikl](https://vehikl.com/)**
+- **[Tighten Co.](https://tighten.co)**
+- **[WebReinvent](https://webreinvent.com/)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+- **[Cyber-Duck](https://cyber-duck.co.uk)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Jump24](https://jump24.co.uk)**
+- **[Redberry](https://redberry.international/laravel/)**
+- **[Active Logic](https://activelogic.com)**
+- **[byte5](https://byte5.de)**
+- **[OP.GG](https://op.gg)**
 
-### **1️⃣ Backend (Laravel) Setup**
+## Contributing
 
-```bash
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-# Navigate to the backend folder
-cd hotel-reservation/backend
+## Code of Conduct
 
-# Install dependencies
-composer install
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-# Set up the environment
-cp .env.example .env
+## Security Vulnerabilities
 
-# Generate application key
-php artisan key:generate
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-# Configure database (update .env with DB details)
-php artisan migrate --seed
+## License
 
-# Serve the backend
-php artisan serve
-```
-### **2️⃣ Frontend (React) Setup**
-
-```bash
-
-# Navigate to the frontend folder
-cd hotel-reservation/frontend
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-```
-
-📷 Screenshots
--------------------------------------------------------------------------------------------------
-Login page
--------------------------------------------------------------------------------------------------
-![Capture](https://github.com/user-attachments/assets/5eb6031a-7075-4c06-b129-5ed6491bea60)
-Hotel List
--------------------------------------------------------------------------------------------------
-![Capture2](https://github.com/user-attachments/assets/b0879d49-56bf-417b-82da-895e3ed5d222)
-reservation form
--------------------------------------------------------------------------------------------------
-![Capture3](https://github.com/user-attachments/assets/d265838d-8cdf-4241-847b-98bc9a0eee72)
-User Dashboard
--------------------------------------------------------------------------------------------------
-![Capture4](https://github.com/user-attachments/assets/2b6b489d-b9cf-4a2b-b6c1-2a9dc4d17eba)
-Admin Panel
--------------------------------------------------------------------------------------------------
-![Capture5](https://github.com/user-attachments/assets/be493157-fb52-489e-b7a5-048ec619d0d1)
-
-![Capture6](https://github.com/user-attachments/assets/7c0304d5-1680-4da4-b161-b73828679d42)
-
-![Capture7](https://github.com/user-attachments/assets/2c84be2f-d11d-4c5d-a8a2-ceb71f389494)
-Edit Hotel
--------------------------------------------------------------------------------------------------
-![Capture8](https://github.com/user-attachments/assets/e44147cf-aea6-463e-b468-1605cd2f320b)
-
-
-
-🤝 Contributing
--------------------------------------------------------------------------------------------------
-Contributions are welcome! Please fork the repository and submit a pull request.
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
