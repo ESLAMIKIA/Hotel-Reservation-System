@@ -65,3 +65,13 @@ php artisan migrate --seed
 # Serve the backend
 php artisan serve
 
+2️⃣ Frontend (React) Setup
+
+# Navigate to the frontend folder
+cd hotel-reservation/frontend
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
