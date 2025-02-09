@@ -80,9 +80,7 @@ npm start
 ```
 
 📷 Screenshots
-
 ![Capture](https://github.com/user-attachments/assets/5eb6031a-7075-4c06-b129-5ed6491bea60)
-
 Login page
 
 User Dashboard
