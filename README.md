@@ -80,6 +80,7 @@ npm start
 ```
 
 📷 Screenshots
+-------------------------------------------------------------------------------------------------
 ![Capture](https://github.com/user-attachments/assets/5eb6031a-7075-4c06-b129-5ed6491bea60)
 Login page
 ![Capture2](https://github.com/user-attachments/assets/b0879d49-56bf-417b-82da-895e3ed5d222)
