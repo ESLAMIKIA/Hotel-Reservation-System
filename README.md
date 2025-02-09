@@ -82,10 +82,21 @@ npm start
 📷 Screenshots
 ![Capture](https://github.com/user-attachments/assets/5eb6031a-7075-4c06-b129-5ed6491bea60)
 Login page
-
+![Capture2](https://github.com/user-attachments/assets/b0879d49-56bf-417b-82da-895e3ed5d222)
+Hotel List
+![Capture3](https://github.com/user-attachments/assets/d265838d-8cdf-4241-847b-98bc9a0eee72)
+reservation form
+![Capture4](https://github.com/user-attachments/assets/2b6b489d-b9cf-4a2b-b6c1-2a9dc4d17eba)
 User Dashboard
+![Capture5](https://github.com/user-attachments/assets/be493157-fb52-489e-b7a5-048ec619d0d1)
 
+![Capture6](https://github.com/user-attachments/assets/7c0304d5-1680-4da4-b161-b73828679d42)
+
+![Capture7](https://github.com/user-attachments/assets/2c84be2f-d11d-4c5d-a8a2-ceb71f389494)
 Admin Panel
+![Capture8](https://github.com/user-attachments/assets/e44147cf-aea6-463e-b468-1605cd2f320b)
+Edit Hotel
+
 
 🤝 Contributing
 
